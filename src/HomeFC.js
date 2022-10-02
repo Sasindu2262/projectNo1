@@ -5,7 +5,7 @@ import {Text, SafeAreaView, StyleSheet} from 'react native';
 const HomeFC = () => {
   return (
     <SafeAreaView style={styles.container}>
-      <Text>Thid id Home class</Text>
+      <Text>My name is Sasindu</Text>
     </SafeAreaView>
   );
 };
